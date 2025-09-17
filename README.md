@@ -87,7 +87,8 @@ composer run dev
 
 - **Super Admin** → Full access to all features  
 - **User** → Restricted panel
-- by default you'll be directed to the users dashboard to access the admin panel use /admin e.g. localhost:8000/admin
+- By default you'll be directed to the users dashboard to access the admin panel use /admin e.g. localhost:8000/admin
+- setting up the notification sender to work on the fly change the QUEUE_CONNECTION=database on the .env to QUEUE_CONNECTION=sync for faster email sending (only use this on applications of size less than 200 user emails sent at once i.e not advisable on large production server)
 
 ---
 
