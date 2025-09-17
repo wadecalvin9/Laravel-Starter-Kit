@@ -66,8 +66,13 @@ php artisan make:filament-user
 ```bash
 php artisan shield:super-admin
 ```
+### 8. for optimization (Make Laravel Run Faster)
 
-### 8. Start the development server  
+```bash
+php artisan icons:cache
+```
+
+### 9. Start the development server  
 ```bash
 php artisan serve
 ```
@@ -75,7 +80,6 @@ Or, if using Vite:
 ```bash
 composer run dev
 ```
-
 ---
 
 ## 🔑 Default Access  
