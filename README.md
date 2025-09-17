@@ -39,9 +39,10 @@ composer install
 npm install && npm run dev
 ```
 
-### 3. Setup environment  
+### 3. Setup environment  (if the command fails just copy content of .env.example, create a file called .env and paste the content)
+NB: Make sure you run the key:generate command before starting the dev server or you'll just get an error
 ```bash
-cp .env.example .env
+copy /Y .env.example .env
 php artisan key:generate
 ```
 
@@ -85,7 +86,8 @@ composer run dev
 ## 🔑 Default Access  
 
 - **Super Admin** → Full access to all features  
-- **User** → Restricted panel  
+- **User** → Restricted panel
+- by default you'll be directed to the users dashboard to access the admin panel use /admin e.g. localhost:8000/admin
 
 ---
 
