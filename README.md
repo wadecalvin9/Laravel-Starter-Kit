@@ -86,7 +86,8 @@ composer run dev
 ## 🔑 Default Access  
 
 - **Super Admin** → Full access to all features  
-- **User** → Restricted panel  
+- **User** → Restricted panel
+- by default you'll be directed to the users dashboard to access the admin panel use /admin e.g. localhost:8000/admin
 
 ---
 
