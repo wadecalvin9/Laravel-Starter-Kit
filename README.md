@@ -82,6 +82,8 @@ Or, if using Vite:
 ```bash
 composer run dev
 ```
+(Optional) If you want to deploy your project to vercel create a .vercelignore file and add the /vendor and other stuff you might not want to be deployed:  
+
 ---
 
 ## 🔑 Default Access  
