@@ -21,7 +21,8 @@ A **comprehensive Laravel starter kit** with authentication, user & admin panels
 - 📢 Announcement Banners  
 - 📜 Activity Log Viewer & User Log Viewer  
 - 🎨 Pre-built UI components with Filament/Laravel Blade  
-- ⚡ Easy to extend for production apps  
+- ⚡ Easy to extend for production apps
+- Easier vercel deployment already configured 
 
 ---
 
