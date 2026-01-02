@@ -1,4 +1,4 @@
-# 📌 Laravel Starter Kit  
+# 📌 Laravel Starter Kits
 
 [![GitHub stars](https://img.shields.io/github/stars/wadecalvin9/Laravel-Starter-Kit?style=social)](https://github.com/wadecalvin9/Laravel-Starter-Kit/stargazers)  
 [![GitHub issues](https://img.shields.io/github/issues/wadecalvin9/Laravel-Starter-Kit)](https://github.com/wadecalvin9/Laravel-Starter-Kit/issues)  
